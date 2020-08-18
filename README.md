@@ -12,7 +12,7 @@ During training, the generator progressively becomes better at creating images t
 
 ![DCGAN](dcgan.gif)
 
-This notebook demonstrates this process on the **FASHION_MNIST** dataset. The following animation shows a series of images produced by the generator as it was trained for **10 epochs**. The images begin as random noise, and increasingly resemble over time.
+This notebook demonstrates this process on the **FASHION_MNIST** dataset. The following animation shows a series of images produced by the generator as it was trained for **20 epochs**. The images begin as random noise, and increasingly resemble over time.
 
 ## project Structure
 The hands on project on Generating Synthetic Images with DCGANs in Kerasis divided into following tasks:
