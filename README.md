@@ -1,3 +1,10 @@
+# Resume Points
+# Deep Convolutional Generative Adversarial Network (DCGANs) in Keras					   Aug‘20 
+## Project Objective
+- Implemented a deep learning CNN model to create a generator and a discriminator  by the adversarial  process  using keras
+- Uses FASHION_MNIST dataset and train the model for 20 epochs.  The images begin as random noise, and increasingly resemble over time
+
+
 # DCGANs
 ## Generate Synthetic Images with DCGANs in Keras
 
